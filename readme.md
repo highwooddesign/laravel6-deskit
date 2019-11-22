@@ -1,5 +1,12 @@
 ## Laravel Boilerplate (Current: Laravel 6.0) ([Demo](http://134.209.123.206/))
 
+[![GitHub issues](https://img.shields.io/github/issues/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/issues)
+[![GitHub forks](https://img.shields.io/github/forks/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/network)
+[![GitHub stars](https://img.shields.io/github/stars/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/stargazers)
+[![GitHub license](https://img.shields.io/github/license/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit)
+[![StyleCI](https://github.styleci.io/repos/223236698/shield?branch=master)](https://github.styleci.io/repos/223236698)
+
+
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
 [![Latest Unstable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/unstable)](https://packagist.org/packages/rappasoft/laravel-boilerplate) 
 <br/>
