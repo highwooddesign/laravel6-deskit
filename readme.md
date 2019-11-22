@@ -5,6 +5,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/stargazers)
 [![GitHub license](https://img.shields.io/github/license/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit)
 [![StyleCI](https://github.styleci.io/repos/223236698/shield?branch=master)](https://github.styleci.io/repos/223236698)
+[![Build Status](https://travis-ci.com/highwooddesign/laravel6-deskit.svg?branch=master)](https://travis-ci.com/highwooddesign/laravel6-deskit)
 
 
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
