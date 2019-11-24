@@ -1,6 +1,6 @@
 ## Laravel Deskit (Current: Laravel 6.0) ([Demo](http://134.209.123.206/))
 
-[![GitHub license](https://img.shields.io/github/license/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/highwooddesign/laravel6-deskit?color=green)](https://github.com/highwooddesign/laravel6-deskit/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/issues)
 [![GitHub forks](https://img.shields.io/github/forks/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/network)
 [![GitHub stars](https://img.shields.io/github/stars/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/stargazers)
