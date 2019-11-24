@@ -1,4 +1,4 @@
-## Laravel Boilerplate (Current: Laravel 6.0) ([Demo](http://134.209.123.206/))
+## Laravel Deskit (Current: Laravel 6.0) ([Demo](http://134.209.123.206/))
 
 [![GitHub issues](https://img.shields.io/github/issues/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/issues)
 [![GitHub forks](https://img.shields.io/github/forks/highwooddesign/laravel6-deskit)](https://github.com/highwooddesign/laravel6-deskit/network)
@@ -7,16 +7,11 @@
 [![StyleCI](https://github.styleci.io/repos/223236698/shield?branch=master)](https://github.styleci.io/repos/223236698)
 [![Build Status](https://travis-ci.com/highwooddesign/laravel6-deskit.svg?branch=master)](https://travis-ci.com/highwooddesign/laravel6-deskit)
 [![codecov](https://codecov.io/gh/highwooddesign/laravel6-deskit/branch/master/graph/badge.svg)](https://codecov.io/gh/highwooddesign/laravel6-deskit)
+![GitHub contributors](https://img.shields.io/github/contributors/highwooddesign/laravel6-deskit.svg)
+![GitHub stars](https://img.shields.io/github/stars/highwooddesign/laravel6-deskit.svg)
 
-
-[![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
-[![Latest Unstable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/unstable)](https://packagist.org/packages/rappasoft/laravel-boilerplate) 
-<br/>
-[![StyleCI](https://styleci.io/repos/30171828/shield?style=plastic)](https://styleci.io/repos/30171828/shield?style=plastic)
-[![CircleCI](https://circleci.com/gh/rappasoft/laravel-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/rappasoft/laravel-boilerplate/tree/master)
-<br/>
-![GitHub contributors](https://img.shields.io/github/contributors/rappasoft/laravel-boilerplate.svg)
-![GitHub stars](https://img.shields.io/github/stars/rappasoft/laravel-boilerplate.svg?style=social)
+<!---[![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)-->
+<!---[![Latest Unstable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/unstable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)-->
 
 ### Demo Credentials
 
@@ -25,32 +20,24 @@
 
 ### Official Documentation
 
-[Click here for the official documentation](http://laravel-boilerplate.com)
-
-### Slack Channel
-
-Please join us in our Slack channel to get faster responses to your questions. Get your invite here: https://laravel-boilerplate.herokuapp.com
+[Click here for the official documentation](https://highwood.dev)
 
 ### Introduction
 
-Laravel Boilerplate provides you with a massive head start on any size web application. It comes with a full featured access control system out of the box with an easy to learn API and is built on a Bootstrap foundation with a front and backend architecture. We have put a lot of work into it and we hope it serves you well and saves you time!
+Laravel Deskit provides you with a massive head start on any size web application. It comes with a full featured access control system out of the box with an easy to learn API and is built on a Bootstrap foundation with a front and backend architecture. We have put a lot of work into it and we hope it serves you well and saves you time!
 
 ### Issues
 
-If you come across any issues please [report them here](https://github.com/rappasoft/laravel-boilerplate/issues).
+If you come across any issues please [report them here](https://github.com/highwooddesign/laravel6-deskit/issues).
 
 ### Contributing
 
-Thank you for considering contributing to the Laravel Boilerplate project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Anthony Rappa at rappa819@gmail.com.
+Thank you for considering contributing to the Laravel Deskit project! Please feel free to make any pull requests, or e-mail me a feature request you would like to see in the future to Dave Horsfall at dave@highwood.com.
 
 ### Security Vulnerabilities
 
-If you discover a security vulnerability within this boilerplate, please send an e-mail to Anthony Rappa at rappa819@gmail.com, or create a pull request if possible. All security vulnerabilities will be promptly addressed.
-
-### Donations
-
-If you would like to help the continued efforts of this project, any size [donations](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JJWUZ4E9S9SFG&lc=US&item_name=Laravel%205%20Boilerplate&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) are welcomed and highly appreciated.
+If you discover a security vulnerability within this project, please send an e-mail to Dave Horsfall at dave@highwood.com, or create a pull request if possible. All security vulnerabilities will be promptly addressed.
 
 ### License
 
-MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
+[The GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
